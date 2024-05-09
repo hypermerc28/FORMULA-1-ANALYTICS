@@ -1,5 +1,6 @@
 # Ferrari F1 Historical Data Overview 🏎️
 
+
 This repository contains a comprehensive overview of Ferrari's Formula 1 racing history, featuring championship titles, legendary drivers, and iconic cars. Explore detailed stats and visualizations that illustrate Ferrari's dominance in the sport.
 
 ## Contents 📂
